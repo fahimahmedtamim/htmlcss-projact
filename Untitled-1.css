@@ -1,0 +1,12 @@
+body{background-image: url("../img/fahim.jpg");
+  background-size: cover;
+  :fixed;
+}
+  #fahim{
+    background-color:aqua;
+  }
+
+  #footer ul {
+    text-align: right;
+  }
+  
